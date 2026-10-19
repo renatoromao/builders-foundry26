@@ -1,7 +1,7 @@
 [project]
 name = "foundry-account-risk-agent"
 version = "0.1.0"
-description = "Douro Cellars Account Risk Agent: live demos for 'Engineering AI Agents with Microsoft Foundry' (CollabDays Portugal 2026)"
+description = "Douro Cellars Account Risk Agent: live demos for 'Building Intelligent Agents with Microsoft Agent Framework' (The Builders Foundry, London 2026)"
 authors = [{ name = "Renato Romão" }]
 readme = "README.md"
 requires-python = ">=3.12"

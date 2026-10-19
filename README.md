@@ -1,6 +1,9 @@
-# Engineering AI Agents with Microsoft Foundry — live demos
+# Building Intelligent Agents with Microsoft Agent Framework — live demos
 
-CollabDays Portugal 2026 (Porto) · Renato Romão
+**The Builders Foundry · Software without hype.** — London, 19 October 2026
+
+- Third talk, 7:35 PM · Renato Romão (Microsoft MVP & MCT)
+- Event: https://www.meetup.com/the-builders-foundry/events/316554194/
 
 Account Risk Agent: *"Which key accounts are at risk this week, why — and what should I do?"*
 Microsoft Agent Framework + Microsoft Foundry, with Fabric IQ (the business) and Work IQ (the people).

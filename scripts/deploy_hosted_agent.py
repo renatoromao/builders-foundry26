@@ -83,7 +83,7 @@ def deploy(zip_path: Path, agent_name: str) -> None:
     ):
         created = project.agents.create_version_from_code(
             agent_name=agent_name,
-            description="Douro Cellars Account Risk Agent (CollabDays Portugal 2026 demo).",
+            description="Douro Cellars Account Risk Agent (The Builders Foundry London 2026 demo).",
             definition=HostedAgentDefinition(
                 cpu="0.5",
                 memory="1Gi",

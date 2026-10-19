@@ -1,4 +1,4 @@
-"""Stage UI for the three demos (CollabDays Portugal 2026 look): `uv run account-risk web` → http://localhost:8000
+"""Stage UI for the three demos (The Builders Foundry look): `uv run account-risk web` → http://localhost:8000
 
 Same agents, same workflow, same tools as the console demos. The browser receives a stream of events
 (tool calls, agent messages, approval requests) and sends approvals back.
@@ -76,7 +76,7 @@ async def lifespan(_app: FastAPI) -> AsyncIterator[None]:
         await _close_workflow()
 
 
-app = FastAPI(title="CollabDays Portugal 2026 · Engineering AI Agents with Microsoft Foundry", lifespan=lifespan)
+app = FastAPI(title="The Builders Foundry · Building Intelligent Agents with Microsoft Agent Framework", lifespan=lifespan)
 app.mount("/static", StaticFiles(directory=STATIC), name="static")
 
 
